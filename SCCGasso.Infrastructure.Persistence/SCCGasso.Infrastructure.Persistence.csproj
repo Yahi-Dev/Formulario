@@ -17,8 +17,4 @@
     <ProjectReference Include="..\SCCGasso.Core.Domain\SCCGasso.Core.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interceptor\" />
-  </ItemGroup>
-
 </Project>
